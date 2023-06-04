@@ -1,0 +1,82 @@
+p {
+    font-weight: bold;
+
+     }
+
+form .bt-Tile{
+	font-weight: bold;
+	margin-top: 150px;
+}
+
+
+form .bad-Title{
+	font-weight: bold;
+}
+
+form .one-Title{
+    font-weight: bold;
+}
+
+form .tow-Title{ 
+	font-weight:bold;  
+}
+
+
+
+
+main .now-Title{
+	font-weight: bold;
+	font-size: 12px;
+	margin-top: 250px;
+
+}
+
+main .ritht-Title{
+	font-weight: bold;
+	font-size: 12px;
+	
+}
+
+main .left-Title{
+	font-weight: bold;
+	font-size: 12px;
+}
+
+main .top-Title {
+	font-weight: bold;
+}
+
+}
+main .for-Title {
+	font-weight: bold;
+
+}
+
+body {margin: 0;
+}
+
+header {text-align: center;
+	    padding-bottom: 20px;
+        font-size: 45px;
+        padding-top: 20px;
+       background-color: darkgrey;
+       color: aliceblue
+}
+
+main {width: 850px;
+}
+
+header {font-size; 45px
+}
+
+h2 {font-size; 30px
+}
+
+h3 {font-size; 24px
+}
+
+p { font-size; 20px 
+}
+
+li {font-size; 16px
+}
